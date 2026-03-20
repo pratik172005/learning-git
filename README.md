@@ -1,2 +1,2 @@
 # learning-git
-pratik sabale satara
+pratik sabale satarapune 
